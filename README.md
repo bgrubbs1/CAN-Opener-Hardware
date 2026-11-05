@@ -12,6 +12,7 @@ The board includes onboard voltage regulation, input and CAN bus protection, an 
 
 - [Hardware specifications](docs/hardware.md)
 - [Hardware documentation PDF](docs/CANOpener-SE-Hardware-Documentation.pdf)
+- [UNO Q capture tools for Codex, Claude Code, and Hermes](software/obd-mcp/README.md)
 
 ## Highlights
 
